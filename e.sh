@@ -1,5 +1,4 @@
 #### e.- Haz un script que se llame e.sh, que pasándole por parámetro un nombre y un módulo me devuelve la calificación. Es obligatorio reutilizar el script anterior. Comitea, integra en master y sube a GitHub
-
 nombre=$1
 modulo=$2
 
